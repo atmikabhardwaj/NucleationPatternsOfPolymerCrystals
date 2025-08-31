@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="172.77344mm"
+   height="208.76619mm"
+   viewBox="0 0 172.77344 208.76619"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Fig10.svg"
+   inkscape:export-filename="/home/m/desk/mm22_revision/03_figures/Fig10/Fig10.png"
+   inkscape:export-xdpi="400.00226"
+   inkscape:export-ydpi="400.00226">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1604"
+       x="-0.24269149"
+       width="1.485383"
+       y="-0.24270208"
+       height="1.4854043">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.45504662"
+         id="feGaussianBlur1606" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.22277"
+     inkscape:cx="376.14972"
+     inkscape:cy="554.45453"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1612"
+       originx="-8.466994"
+       originy="4.8461916e-08" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-23.272333,-5.0377455)">
+    <image
+       sodipodi:absref="/home/m/desk/mm22_revision/03_figures/Fig10/Fig10b1.png"
+       xlink:href="Fig10b1.png"
+       style="stroke-width:2.63937"
+       width="85.6493"
+       height="66.402267"
+       preserveAspectRatio="none"
+       id="image903"
+       x="110.39562"
+       y="5.0377455" />
+    <image
+       sodipodi:absref="/home/m/desk/mm22_revision/03_figures/Fig10/Fig10b2.png"
+       xlink:href="Fig10b2.png"
+       width="84.861"
+       height="52.581593"
+       preserveAspectRatio="none"
+       id="image889"
+       x="111.04934"
+       y="62.445747"
+       style="stroke-width:2.36456" />
+    <image
+       sodipodi:absref="/home/m/desk/mm22_revision/03_figures/Fig10/Fig10a1.png"
+       xlink:href="Fig10a1.png"
+       style="stroke-width:2.63937"
+       y="5.0377455"
+       x="23.272333"
+       id="image845"
+       preserveAspectRatio="none"
+       height="66.402267"
+       width="85.6493" />
+    <image
+       sodipodi:absref="/home/m/desk/mm22_revision/03_figures/Fig10/Fig10a2.png"
+       xlink:href="Fig10a2.png"
+       style="stroke-width:2.36455"
+       width="84.861"
+       height="52.581593"
+       preserveAspectRatio="none"
+       id="image875"
+       x="23.971998"
+       y="62.445747" />
+    <image
+       sodipodi:absref="/home/m/desk/mm22_revision/03_figures/Fig10/Fig10b3.png"
+       xlink:href="Fig10b3.png"
+       style="stroke-width:2.24809"
+       width="85.19043"
+       height="53.592388"
+       preserveAspectRatio="none"
+       id="image917"
+       x="110.85534"
+       y="107.02639" />
+    <image
+       sodipodi:absref="/home/m/desk/mm22_revision/03_figures/Fig10/Fig10a3.png"
+       xlink:href="Fig10a3.png"
+       style="stroke-width:2.24808"
+       width="85.191002"
+       height="53.592747"
+       preserveAspectRatio="none"
+       id="image931"
+       x="23.753996"
+       y="107.02639" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.1612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="62.754551"
+       y="164.75142"
+       id="text859"><tspan
+         sodipodi:role="line"
+         id="tspan857"
+         x="62.754551"
+         y="164.75142"
+         style="stroke-width:0.264583">(a)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.1612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="149.7989"
+       y="164.75758"
+       id="text863"><tspan
+         sodipodi:role="line"
+         id="tspan861"
+         x="149.7989"
+         y="164.75758"
+         style="stroke-width:0.264583">(b)</tspan></text>
+    <ellipse
+       style="opacity:0.789278;fill:none;stroke:#ff1d1d;stroke-width:0.499999;stroke-dasharray:3, 0.499999;stroke-opacity:1"
+       id="path1416"
+       cx="139.79808"
+       cy="93.974037"
+       rx="2.2500005"
+       ry="2.2499022" />
+    <ellipse
+       style="opacity:0.466;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:3, 0.499999;stroke-opacity:1;filter:url(#filter1604)"
+       id="ellipse1418"
+       cx="140.32724"
+       cy="94.503235"
+       rx="2.2500005"
+       ry="2.2499022" />
+    <path
+       style="fill:#f54949;fill-opacity:0.350105;stroke:#f65f5f;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.651185,95.820384 h 6.614575 v 2.645835 l 10.58335,-3.968747 -10.58335,-3.968753 v 2.645829 h -6.614575 z"
+       id="path1614"
+       sodipodi:nodetypes="cccccccc" />
+    <rect
+       style="opacity:0.890195;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:3, 0.499999;stroke-opacity:1"
+       id="rect1628"
+       width="31.750019"
+       height="7.9374871"
+       x="144.29112"
+       y="91.549934" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.75433px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#f54949;fill-opacity:1;stroke-width:0.264583"
+       x="143.75755"
+       y="97.24704"
+       id="text1632"><tspan
+         sodipodi:role="line"
+         id="tspan1630"
+         x="143.75755"
+         y="97.24704"
+         style="fill:#f54949;fill-opacity:1;stroke-width:0.264583"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.75433px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan1638">*</tspan> reference</tspan></text>
+    <path
+       style="fill:#f54949;fill-opacity:0.350105;stroke:#f65f5f;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.651178,41.14929 h 6.614572 v 2.645841 L 110.8491,39.82638 100.26575,35.85763 v 2.64583 h -6.614572 z"
+       id="path1634"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#f54949;fill-opacity:0.350105;stroke:#f65f5f;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 94.974102,143.61239 h 6.614578 v 2.64584 l 10.58334,-3.96875 -10.58334,-3.96875 v 2.64583 h -6.614578 z"
+       id="path1636"
+       sodipodi:nodetypes="cccccccc" />
+    <image
+       sodipodi:absref="/home/m/desk/mm22_revision/03_figures/Fig10/Fig10c1.png"
+       xlink:href="Fig10c1.png"
+       style="stroke-width:2.75928"
+       y="166.37471"
+       x="23.945114"
+       id="image866"
+       preserveAspectRatio="none"
+       height="45.105881"
+       width="82.080429" />
+    <image
+       sodipodi:absref="/home/m/desk/mm22_revision/03_figures/Fig10/Fig10c2.png"
+       xlink:href="Fig10c2.png"
+       style="opacity:1;stroke-width:2.6481"
+       y="166.37471"
+       x="107.3378"
+       id="image880"
+       preserveAspectRatio="none"
+       height="47.300976"
+       width="86.325966" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.1612px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="104.34084"
+       y="213.1235"
+       id="text854"><tspan
+         sodipodi:role="line"
+         id="tspan852"
+         x="104.34084"
+         y="213.1235"
+         style="stroke-width:0.264583">(c)</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+units           lj
+atom_style      angle
+
+read_restart    melt.restart
+
+pair_style      lj96/cut 1.0188
+pair_modify     shift yes
+pair_coeff      1 1 0.37775 0.89
+
+bond_style      harmonic
+bond_coeff      1 1000.0 0.5 
+
+angle_style     table linear 181
+angle_coeff     1 cgpva.table CG_PVA
+
+
+special_bonds   lj 0.0 0.0 1.0
+
+thermo          5000
+thermo_style    custom step temp epair emol etotal press vol lx ly lz density enthalpy ebond eangle
+timestep        0.01
+
+fix             1 all npt temp 0.90 0.75 1.0 iso 8.0 8.0 10.0 
+
+dump            1  all atom 10000 poly.dump
+dump_modify     1  image yes scale no
+
+restart         1000000 poly.restart
+run             75000000
+
+write_data	out.75
+
